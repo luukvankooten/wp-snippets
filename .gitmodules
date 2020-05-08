@@ -1,0 +1,3 @@
+[submodule "mc4wp-snippets"]
+	path = mc4wp-snippets
+	url = git@github.com:ibericode/mc4wp-snippets.git

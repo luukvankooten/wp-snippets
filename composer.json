@@ -1,0 +1,14 @@
+{
+    "name": "luuk/wp-snippets",
+    "description": "Test wordpress snippets in wordpress",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luuk van Kooten",
+            "email": "luukvankooten@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
